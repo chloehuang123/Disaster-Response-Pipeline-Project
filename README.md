@@ -26,7 +26,9 @@ The purpose of this project is to make a web app using a both an ETL and Machine
 
 ### Screenshot results
 Model result:
+
 <img src='https://github.com/chloehuang123/Disaster-Response-Pipeline-Project/blob/main/Screenshot%202023-04-06%20at%201.27.50%20PM.png'/>
 
 The website:
+
 <img src='https://github.com/chloehuang123/Disaster-Response-Pipeline-Project/blob/main/Screenshot%202023-04-06%20at%201.36.51%20PM.png'/>
