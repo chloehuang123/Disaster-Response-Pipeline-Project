@@ -1,6 +1,14 @@
 # Disaster Response Pipeline Project
 
 ### Motivation
+This project is a component of the Data Science Nanodegree Program offered by Udacity in partnership with Figure Eight. The dataset for this project comprises pre-labelled tweets and messages related to real-life disasters. The primary objective of the project is to develop a Natural Language Processing tool capable of categorizing messages.
+
+The project is structured into the following sections:
+
+- Data Processing: An ETL Pipeline is used to extract data from the source, clean the data, and save it in an appropriate database format.
+- Machine Learning Pipeline: A model is trained using this pipeline to classify text messages into specific categories.
+- Web Application: This component displays the results of the model in real-time.
+
 The purpose of this project is to make a web app using a both an ETL and Machine Learning Pipelines to create a model that will send messages to a specific disaster relief organization. 
 
 ### Instructions:
